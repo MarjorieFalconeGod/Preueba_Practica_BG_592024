@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\services\\usuario\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:services\\usuario\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\services\\usuario\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:services\\usuario\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:views\\usuario\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|c:\\users\\adavila\\desktop\\mayu\\5-9-2024\\preueba_practica_bg_592024\\webapp_20240905_marjorie_falcone\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E233F03E-76C3-471A-A5F2-33634B7DFE82}|WebAPP_20240905_Marjorie_Falcone.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,38 +45,120 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 274,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 54,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "UsuarioController.cs",
               "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
               "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:45:40.798Z",
+              "WhenOpened": "2024-09-05T21:21:53.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:45:37.058Z",
+              "WhenOpened": "2024-09-05T20:28:44.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T19:14:12.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Services\\Usuario\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\Usuario\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Services\\Usuario\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\Usuario\\UsuarioService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T19:06:11.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T21:39:35.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Views\\Usuario\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Create.cshtml",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Views\\Usuario\\Create.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:15:54.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Services\\Usuario\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\Usuario\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Services\\Usuario\\IUsuarioService.cs",
+              "RelativeToolTip": "Services\\Usuario\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:01:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAADwv08AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-05T20:15:16.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
@@ -70,36 +168,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-05T19:38:33.763Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-05T19:14:12.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Services\\Usuario\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Services\\Usuario\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPP_20240905_Marjorie_Falcone\\Services\\Usuario\\UsuarioService.cs",
-              "RelativeToolTip": "Services\\Usuario\\UsuarioService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAuwHwAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-05T19:06:11.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

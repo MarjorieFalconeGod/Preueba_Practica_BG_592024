@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 using System.Reflection.Metadata;
 using WebAPP_20240905_Marjorie_Falcone.Models;
 using WebAPP_20240905_Marjorie_Falcone.Services.Usuario;
@@ -13,19 +14,6 @@ namespace WebAPP_20240905_Marjorie_Falcone.Controllers
         public UsuarioController(IUsuarioService UsuarioService)
         {
             _UsuarioService = UsuarioService;
-        }
-
-        [Route("/usuario")]
-        public IActionResult Index()
-        {
-            return View();
-        }
-
-        [HttpGet]
-        public async Task<IActionResult> ConsultarTodos()
-        {
-            var Usuarios = await _UsuarioService.ConsultarTodos();
-            return Json(Usuarios);
         }
 
         [HttpPost]
@@ -53,7 +41,17 @@ namespace WebAPP_20240905_Marjorie_Falcone.Controllers
             return Json(Usuarios);
         }
 
+        public async Task<IActionResult> Index()
+        {
+            var Usuarios = await _UsuarioService.ConsultarTodos();
+            return View(Usuarios);
+            
+        }
 
+        public IActionResult Create()
+        {
+            return View();
+        }
 
 
 

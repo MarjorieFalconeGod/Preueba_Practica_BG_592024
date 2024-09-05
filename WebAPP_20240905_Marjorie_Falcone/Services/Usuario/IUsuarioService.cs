@@ -15,6 +15,6 @@ namespace WebAPP_20240905_Marjorie_Falcone.Services.Usuario
 
 
         Task<Models.Usuario> ver(int codigo);
-        Task Crear(Models.Usuario usuario);
+        Task<Models.Usuario> Crear(Models.Usuario usuario);
     }
 }
