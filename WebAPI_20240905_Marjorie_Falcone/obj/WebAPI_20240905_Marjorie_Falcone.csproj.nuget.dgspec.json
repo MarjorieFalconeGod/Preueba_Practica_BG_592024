@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj": {}
+    "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj": {
+    "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj",
+        "projectUniqueName": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj",
         "projectName": "WebAPI_20240905_Marjorie_Falcone",
-        "projectPath": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj",
+        "projectPath": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj",
         "packagesPath": "C:\\Users\\adavila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\WebAPI_20240905_Marjorie_Falcone\\obj\\",
+        "outputPath": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPI_20240905_Marjorie_Falcone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

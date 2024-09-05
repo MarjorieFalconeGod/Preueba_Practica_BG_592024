@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7BT3BE7CKl0=",
+  "dgSpecHash": "0XEbsAjnTW8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj",
+  "projectFilePath": "C:\\Users\\adavila\\Desktop\\Mayu\\5-9-2024\\Preueba_Practica_BG_592024\\WebAPI_20240905_Marjorie_Falcone\\WebAPI_20240905_Marjorie_Falcone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adavila\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\adavila\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
